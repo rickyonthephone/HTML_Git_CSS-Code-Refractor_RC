@@ -1,3 +1,4 @@
+/* reorganized all CSS elements to flow with the HTML code from top to bottom of the webpage */
 * {
     box-sizing: border-box;
     padding: 0;
@@ -19,11 +20,11 @@ body {
     display: inline-block;
     font-size: 55px;
 }
-
+/* changed color of "seo" portion of Horiseon to make it stand out more, changed it from #d9dcd6*/
 .header h1 .seo {
     color: #AF9994;
 }
-
+/* updated div tag to "nav" in the next three elements due to change to nav tag in HTML code */
 .header nav {
     padding-top: 15px;
     margin-right: 20px;
@@ -51,7 +52,7 @@ p {
     font-size: 16px;
 }
 
-figure {
+.hero {
     height: 800px;
     width: 100%;
     margin-bottom: 25px;
@@ -90,6 +91,7 @@ figure {
     margin-bottom: 20px;
     font-size: 36px;
 }
+/* bumped up caption font size to make it more accessible */
 .search-engine-optimization p{
     font-size: 25px;
 }
@@ -108,6 +110,7 @@ figure {
     margin-bottom: 20px;
     font-size: 36px;
 }
+/* bumped up caption font size to make it more accessible */
 .online-reputation-management p {
     font-size: 25px;
 }
@@ -126,6 +129,7 @@ figure {
     margin-bottom: 20px;
     font-size: 36px;
 }
+/* bumped up caption font size to make it more accessible */
 .social-media-marketing p {
     font-size: 25px;
 }
@@ -150,7 +154,7 @@ figure {
     margin-bottom: 10px;
     text-align: center;
 }
-
+/* bumped up caption font size to make it more accessible */
 .benefit-lead p {
     font-size: 22px;
 }
@@ -170,7 +174,7 @@ figure {
     margin-bottom: 10px;
     text-align: center;
 }
-
+/* bumped up caption font size to make it more accessible */
 .benefit-brand p {
     font-size: 22px;
 }
@@ -190,7 +194,7 @@ figure {
     margin-bottom: 10px;
     text-align: center;
 }
-
+/* bumped up caption font size to make it more accessible */
 .benefit-cost p {
     font-size: 22px;
 }
