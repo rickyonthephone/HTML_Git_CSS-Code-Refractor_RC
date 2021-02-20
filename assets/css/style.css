@@ -1,5 +1,5 @@
-/* reorganized all CSS elements to flow with the HTML code from top to bottom of the webpage */
-* {
+/* Reorganized the flow of the code to follow more closely with the flow of the HTML*/ 
+{
     box-sizing: border-box;
     padding: 0;
     margin: 0;
