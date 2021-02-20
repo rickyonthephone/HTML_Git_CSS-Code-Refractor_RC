@@ -34,4 +34,6 @@ THEN I find a concise, descriptive title
 
 The following image shows the web application's appearance and functionality:
 
+![Screenshot](https://github.com/rickyonthephone/HTML_Git_CSS-Code-Refractor_RC/blob/master/assets/images/Horiseon_Screen_%20Shot.png)
+
 
