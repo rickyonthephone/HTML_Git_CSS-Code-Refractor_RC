@@ -1,9 +1,10 @@
-/* Reorganized the flow of the code to follow more closely with the flow of the HTML*/ 
 {
     box-sizing: border-box;
     padding: 0;
     margin: 0;
 }
+
+/* Reorganized the flow of the code to follow more closely with the flow of the HTML*/ 
 
 body {
     background-color: #d9dcd6;
